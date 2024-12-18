@@ -1,0 +1,17 @@
+{
+    "name"        : "training-blog/training-blog",
+    "type"        : "project",
+    "description" : "A simple Training Blog Project",
+    "keywords"    : [],
+    "license"     : "",
+    "require"     : {},
+    "require-dev" : {},
+    "autoload"    : {
+        "psr-4": {"App\\":"app//"},
+        "files":["app/helpers/helpers.php"]
+    }
+
+
+
+
+}
